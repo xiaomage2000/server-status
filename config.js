@@ -23,6 +23,7 @@ window.Config = {
     'm786334542-b0751f90f2a7339812d9eb46', //olink
     'm788150719-eab95bef74cebf9bc9834269',//pigyun
     'm788279906-4e811ea461bdb882e5f58003',//greencloudvps
+    'm788858650-59b97b6a12d4f8cba21e1d1e',//euserv
   ],
 
   // 是否显示监测站点的链接
